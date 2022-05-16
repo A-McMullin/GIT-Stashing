@@ -10,6 +10,10 @@ public class Main {
         Audi.engineCap ="V8";
         Audi.headlights ="blue";
         Audi.regNo ="123ABC";
+
+        System.out.println("welcome to my car");
+        System.out.println("the radio is set to 80MHz");
+        System.out.println("turn on the air conditioner");
         
     }
 }
